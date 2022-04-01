@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wuzzuf-react/static/css/main.35f17047.css",
+    "main.js": "/wuzzuf-react/static/js/main.404285ac.js",
+    "index.html": "/wuzzuf-react/index.html",
+    "main.35f17047.css.map": "/wuzzuf-react/static/css/main.35f17047.css.map",
+    "main.404285ac.js.map": "/wuzzuf-react/static/js/main.404285ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f17047.css",
+    "static/js/main.404285ac.js"
+  ]
+}
